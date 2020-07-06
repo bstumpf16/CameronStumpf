@@ -1,12 +1,10 @@
 --- 
 title: "B. Cameron Stumpf"
-site: bookdown::bookdown_site
 output: 
   bookdown::gitbook:
     config:
       toc:
         collapse: section
-documentclass: book
 description: "Professional Information"
 ---
 
