@@ -1,0 +1,17 @@
+--- 
+title: "B. Cameron Stumpf"
+author: "B. Cameron Stumpf"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: 
+  bookdown::gitbook:
+    config:
+      toc:
+        collapse: section
+documentclass: book
+description: "Professional Information"
+---
+
+# Introduction
+
+Hello! My name is Cameron Stumpf and I am a graduate student at George Fox University. 
