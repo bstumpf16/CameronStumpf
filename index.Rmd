@@ -1,7 +1,5 @@
 --- 
 title: "B. Cameron Stumpf"
-author: "B. Cameron Stumpf"
-date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: 
   bookdown::gitbook:
